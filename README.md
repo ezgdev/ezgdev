@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ezequiel+Gimenez;I'm+a+Software+Development+Student)](https://git.io/typing-svg)
-# 💫 About Me:
 
 # **About Me**
 I am a Software Development student at BYU Idaho, passionate about programming and continuous learning. After completing my first year of studies, I have experience with HTML, CSS, JavaScript, Python, and C#. My focus is on enhancing my skills to build practical, robust projects that solve real-world problems.<br>
