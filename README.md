@@ -3,7 +3,8 @@
 # **About Me**
 I am a Software Development student at BYU Idaho, passionate about programming and continuous learning. After completing my first year of studies, I have experience with HTML, CSS, JavaScript, Python, and C#. My focus is on enhancing my skills to build practical, robust projects that solve real-world problems.
 
-🌱 ## I’m currently learning:
+## 🌱 I’m currently learning:
+Advanced topics in software development, including databases, backend development, and web services. Building on my foundation in front-end development, I am focused on expanding my skills to become proficient in full-stack development, with a strong understanding of server-side technologies, data management, and API integration.
 
-- 😄 I’m currently learning software development in BYU idaho, finishing the first certificate to the career, where im learned html, css, js, basic python and C#.
-   Encouraged to continue learning and developing skills within the world of programming! 💪
+
+
